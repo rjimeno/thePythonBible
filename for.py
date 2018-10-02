@@ -4,6 +4,7 @@
 48. PROJECT 6: Baby Conversation Simulator
 """
 
+
 def main():
     """
     Asks for some input and  prints the number of vowels and consonants in it.
@@ -21,5 +22,6 @@ def main():
             consonants += 1
 
     print("There are {} vowels and {} consonants".format(vowels, consonants))
+
 
 main()
